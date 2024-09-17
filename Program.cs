@@ -16,6 +16,7 @@ class Program {
     { 
        
         System.Console.WriteLine("ee1");
+        System.Console.WriteLine("forum");
         
 
     } 
