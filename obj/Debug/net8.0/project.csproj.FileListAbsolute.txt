@@ -29,3 +29,4 @@ E:\C#\project\mass\obj\Debug\net8.0\ref\project.dll
 E:\C#\project\obj\Debug\net8.0\project.csproj.AssemblyReference.cache
 E:\C#\project\bin\Debug\net8.0\Newtonsoft.Json.dll
 E:\C#\project\obj\Debug\net8.0\project.csproj.Up2Date
+E:\C#\project\obj\Debug\net8.0\project.sourcelink.json
