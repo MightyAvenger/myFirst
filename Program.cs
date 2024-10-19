@@ -18,7 +18,7 @@ class Program {
         System.Console.WriteLine("ee1");
         System.Console.WriteLine("forum1");
         System.Console.WriteLine("lol");
-        #1
+        #1 1
         
 
     } 
